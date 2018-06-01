@@ -1,4 +1,4 @@
-# SJ.BlankSlate
+# SJ.GuideDup
 Visual Studio starter repo for my own projects
 
 # Owner
